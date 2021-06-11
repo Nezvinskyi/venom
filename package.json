@@ -1,0 +1,27 @@
+{
+  "name": "venom",
+  "version": "1.0.0",
+  "description": "Promo-page for the film Venom 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nezvinskyi/venom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nezvinskyi/venom/issues"
+  },
+  "homepage": "https://github.com/Nezvinskyi/venom#readme",
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^8.3.0"
+  }
+}
